@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99033" started-at="2021-08-08T10:01:51Z" finished-at="2021-08-08T10:03:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99033" started-at="2021-08-08T10:01:51Z" finished-at="2021-08-08T10:03:30Z">
+      <class name="com.testcase.Test_CurrencyConversion">
+        <test-method status="PASS" signature="testSetup()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="testSetup" is-config="true" duration-ms="2531" started-at="2021-08-08T16:01:51Z" finished-at="2021-08-08T16:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:01:54Z" finished-at="2021-08-08T16:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="openBrowser" is-config="true" duration-ms="7459" started-at="2021-08-08T16:01:54Z" finished-at="2021-08-08T16:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testFirstStep()[pri:1, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="testFirstStep" duration-ms="3749" started-at="2021-08-08T16:02:01Z" description="Test Buy and Sell box test " finished-at="2021-08-08T16:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFirstStep -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:02:05Z" finished-at="2021-08-08T16:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:02:05Z" finished-at="2021-08-08T16:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="openBrowser" is-config="true" duration-ms="1069" started-at="2021-08-08T16:02:05Z" finished-at="2021-08-08T16:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testSecondStep()[pri:1, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="testSecondStep" duration-ms="24241" started-at="2021-08-08T16:02:06Z" description="Test country and price list update" finished-at="2021-08-08T16:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSecondStep -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:02:30Z" finished-at="2021-08-08T16:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:02:30Z" finished-at="2021-08-08T16:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="openBrowser" is-config="true" duration-ms="958" started-at="2021-08-08T16:02:30Z" finished-at="2021-08-08T16:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testThirdStep()[pri:1, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="testThirdStep" duration-ms="21717" started-at="2021-08-08T16:02:31Z" description="Test provided value" finished-at="2021-08-08T16:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThirdStep -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:02:53Z" finished-at="2021-08-08T16:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="openBrowser" is-config="true" duration-ms="106" started-at="2021-08-08T16:02:53Z" finished-at="2021-08-08T16:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:02:53Z" finished-at="2021-08-08T16:02:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testMenu()[pri:2, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="testMenu" duration-ms="32602" started-at="2021-08-08T16:02:53Z" description="Test All Navigation Menu" finished-at="2021-08-08T16:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMenu -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:03:25Z" finished-at="2021-08-08T16:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="openBrowser" is-config="true" duration-ms="632" started-at="2021-08-08T16:03:25Z" finished-at="2021-08-08T16:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:03:25Z" finished-at="2021-08-08T16:03:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="homePageLogo()[pri:4, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="homePageLogo" duration-ms="3690" started-at="2021-08-08T16:03:26Z" description="Test Paysera Logo" finished-at="2021-08-08T16:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageLogo -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-08-08T16:03:30Z" finished-at="2021-08-08T16:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.testcase.Test_CurrencyConversion@214b199c]" name="closeBrowser" is-config="true" duration-ms="219" started-at="2021-08-08T16:03:30Z" finished-at="2021-08-08T16:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.testcase.Test_CurrencyConversion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
